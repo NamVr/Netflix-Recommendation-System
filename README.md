@@ -53,12 +53,9 @@ You don’t need to install anything locally! Everything runs in the browser via
 
 ## 📸 Workshop Resources
 
-| Resource | QR |
-|---------|-----------|
-| 🔗 [Google Colab](https://colab.research.google.com/github/NamVr/Netflix-Recommendation-System/blob/main/notebook.ipynb) | ![Colab QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://colab.research.google.com/github/NamVr/Netflix-Recommendation-System/blob/main/notebook.ipynb) |
-| 🐙 [GitHub Repo](https://github.com/NamVr/Netflix-Recommendation-System/) | ![GitHub QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://github.com/NamVr/Netflix-Recommendation-System/) |
-| 💼 [LinkedIn](https://linkedin.com/in/yourprofile) | ![LinkedIn QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://linkedin.com/in/namanvrati) |
-| 📝 [Feedback Form](https://forms.gle/1dMRPY8hisXzBWNRA) | ![LinkedIn QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://forms.gle/1dMRPY8hisXzBWNRA) |
+| 🔗 [Google Colab](https://colab.research.google.com/github/NamVr/Netflix-Recommendation-System/blob/main/notebook.ipynb) | 🐙 [GitHub Repo](https://github.com/NamVr/Netflix-Recommendation-System/) | 💼 [LinkedIn](https://linkedin.com/in/namanvrati) | 📝 [Feedback Form](https://forms.gle/1dMRPY8hisXzBWNRA) |
+|:--:|:--:|:--:|:--:|
+| ![Colab QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://colab.research.google.com/github/NamVr/Netflix-Recommendation-System/blob/main/notebook.ipynb) | ![GitHub QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://github.com/NamVr/Netflix-Recommendation-System/) | ![LinkedIn QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://linkedin.com/in/namanvrati) | ![Feedback QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://forms.gle/1dMRPY8hisXzBWNRA) |
 
 ---
 
