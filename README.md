@@ -51,11 +51,28 @@ You don’t need to install anything locally! Everything runs in the browser via
 
 ---
 
-## 📸 Workshop Resources
+<h2>📸 Workshop Resources</h2>
 
-| 🔗 [Google Colab](https://colab.research.google.com/github/NamVr/Netflix-Recommendation-System/blob/main/notebook.ipynb) | 🐙 [GitHub Repo](https://github.com/NamVr/Netflix-Recommendation-System/) | 💼 [LinkedIn](https://linkedin.com/in/namanvrati) | 📝 [Feedback Form](https://forms.gle/1dMRPY8hisXzBWNRA) |
-|:--:|:--:|:--:|:--:|
-| ![Colab QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://colab.research.google.com/github/NamVr/Netflix-Recommendation-System/blob/main/notebook.ipynb) | ![GitHub QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://github.com/NamVr/Netflix-Recommendation-System/) | ![LinkedIn QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://linkedin.com/in/namanvrati) | ![Feedback QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://forms.gle/1dMRPY8hisXzBWNRA) |
+<table>
+  <tr>
+    <th><a href="https://colab.research.google.com/github/NamVr/Netflix-Recommendation-System/blob/main/notebook.ipynb">🔗 Google Colab</a></th>
+    <th>&nbsp;&nbsp;&nbsp;</th>
+    <th><a href="https://github.com/NamVr/Netflix-Recommendation-System/">🐙 GitHub Repo</a></th>
+    <th>&nbsp;&nbsp;&nbsp;</th>
+    <th><a href="https://linkedin.com/in/namanvrati">💼 LinkedIn</a></th>
+    <th>&nbsp;&nbsp;&nbsp;</th>
+    <th><a href="https://forms.gle/1dMRPY8hisXzBWNRA">📝 Feedback Form</a></th>
+  </tr>
+  <tr>
+    <td><img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://colab.research.google.com/github/NamVr/Netflix-Recommendation-System/blob/main/notebook.ipynb"></td>
+    <td></td>
+    <td><img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://github.com/NamVr/Netflix-Recommendation-System/"></td>
+    <td></td>
+    <td><img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://linkedin.com/in/namanvrati"></td>
+    <td></td>
+    <td><img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://forms.gle/1dMRPY8hisXzBWNRA"></td>
+  </tr>
+</table>
 
 ---
 
